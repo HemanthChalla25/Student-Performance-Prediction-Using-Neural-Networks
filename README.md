@@ -106,7 +106,7 @@ The trained model is saved as:
 - Implementing Deep Learning using TensorFlow and Keras.
 
 ## 👨‍💻 Author
-Student Performance Prediction using ANN and Backpropagation.
+Challa Hemanth github:https://github.com/hemanthchalla312-oss
 
 ## ⭐ Conclusion
 This project demonstrates how Artificial Neural Networks and Backpropagation can be used to predict student marks based on study hours. It provides practical experience in Deep Learning and neural network implementation.
